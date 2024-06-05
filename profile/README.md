@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://developer-friendly.blog/assets/logo.png" height="110" alt="Developer Friendly" />
-</p>
-
 # Developer Friendly
 
 ## Who We Are?
